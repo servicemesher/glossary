@@ -7,17 +7,21 @@
 - application：应用/应用程序
 - authentication：认证
 - authorization：授权
+- caveat：注意事项
 - cleanup：清除
 - cloud native：云原生
 - configure：配置
+- control plane：控制平面
+- data plane：数据平面
 - infrastructure：基础设施
 - microservice：微服务
 - mount：挂载
 - mutual TLS：双向TLS
 - policy：策略
 - proxy：代理
-- service：服务
+- remote：远程
 - service mesh：服务网格
+- service：服务
 - setting：设置
 - sidecar：边车，容器应用的部署模式中的固定术语，无须翻译
 - traffic：流量
