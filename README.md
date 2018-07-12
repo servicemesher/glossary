@@ -8,6 +8,7 @@
 - authentication：认证
 - authorization：授权
 - caveat：注意事项
+- circuit breaker：熔断器
 - cleanup：清除
 - cloud native：云原生
 - configure：配置
