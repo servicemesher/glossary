@@ -34,4 +34,5 @@
 - sidecar：边车，容器应用的部署模式中的固定术语，无须翻译
 - span：跨度，在分布式追踪中作为特有名词，无须翻译
 - traffic：流量
+- traffic shadowing：流量复制（动词），影子流量（名次）
 - validate：验证
