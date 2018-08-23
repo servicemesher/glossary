@@ -13,7 +13,7 @@
 - authorization：授权
 - automatic retry：自动重试
 - bulkheading：隔离层
-- canary rollout：金丝雀展示
+- canary rollout：金丝雀发布
 - caveat：注意事项
 - circuit breaker：熔断器
 - cleanup：清除
@@ -35,7 +35,7 @@
 - policy：策略
 - proxy：代理
 - remote：远程
-- retry quota/budget：重试指标/预算
+- retry quota/budget：重试配额/预算
 - service mesh：服务网格
 - service：服务
 - setting：设置
