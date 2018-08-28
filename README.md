@@ -31,11 +31,13 @@
 - microservice：微服务
 - mount：挂载
 - mutual TLS：双向TLS
+- namespace：命名空间
 - organizational policy：组织策略
 - policy：策略
 - proxy：代理
 - remote：远程
 - retry quota/budget：重试配额/预算
+- service account：服务帐户（Kubernetes中的资源对象）
 - service mesh：服务网格
 - service：服务
 - setting：设置
