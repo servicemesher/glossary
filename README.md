@@ -43,6 +43,7 @@
 - setting：设置
 - sidecar：边车，容器应用的部署模式中的固定术语，无须翻译
 - span：跨度，在分布式追踪中作为特有名词，无须翻译
+- target scrape：采样目标
 - traffic：流量
 - traffic routing：流量路由
 - traffic shadowing：流量复制（动词），影子流量（名词）
