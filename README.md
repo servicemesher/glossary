@@ -36,6 +36,7 @@
 - policy：策略
 - proxy：代理
 - remote：远程
+- rule evaluation：告警规则（Prometheus 中的术语）
 - retry quota/budget：重试配额/预算
 - service account：服务帐户（Kubernetes中的资源对象）
 - service mesh：服务网格
