@@ -20,6 +20,7 @@
 - client-side load balancing：客户端负载均衡
 - cloud native：云原生
 - configure：配置
+- container orchestration framework：容器编排框架
 - connection timeout：连接超时
 - control plane：控制平面
 - data plane：数据平面
